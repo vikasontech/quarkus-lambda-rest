@@ -1,0 +1,4 @@
+target/**
+trust-policy.json
+payload.json
+**.iml
